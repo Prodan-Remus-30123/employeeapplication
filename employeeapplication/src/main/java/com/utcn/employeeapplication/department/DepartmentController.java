@@ -7,17 +7,40 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/department")
+@CrossOrigin
 public class DepartmentController {
     @Autowired
     private DepartmentService departmentService;
 
-    @GetMapping
+    @PostMapping("/create")
+    public Department createDepartment(@RequestBody Department department){
+        return departmentService.create(department);
+    }
+
+    @GetMapping("/getAll")
     public List<Department> getAllDepartments(){
         return departmentService.getAllDepartments();
     }
 
-    @PostMapping
-    public Department createDepartment(@RequestBody Department department){
-        return departmentService.create(department);
+    @GetMapping("/get/{id}")
+    public Department getDepartment(@PathVariable int id) {return departmentService.getDepartment(id);}
+
+    @PutMapping(value = "/update/{id}")
+    public Department updateDepartment(@PathVariable int id,@RequestBody Department department)
+    {
+        return departmentService.updateDepartment(id,department);
     }
+
+    @PutMapping(value = "/updateDescription/{id}")
+    public Department updateDepartmentDescription(@PathVariable int id,@RequestBody Department department)
+    {
+        return departmentService.updateDepartmentDescription(id,department);
+    }
+
+    @DeleteMapping("/delete/{id}")
+    public void deleteDepartment(@PathVariable int id) {
+        departmentService.deleteDepartment(id);
+    }
+
+
 }

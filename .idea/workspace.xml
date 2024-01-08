@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="51818820-88e9-41d9-8008-78ff8618d6f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employeeapplication/src/main/java/com/utcn/employeeapplication/department/DepartmentNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employeeapplication/src/main/java/com/utcn/employeeapplication/diagram" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employeeapplication/src/main/java/com/utcn/employeeapplication/employee/EmployeeNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employeeapplication/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/employeeapplication/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employeeapplication/src/main/java/com/utcn/employeeapplication/EmployeeapplicationApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/employeeapplication/src/main/java/com/utcn/employeeapplication/EmployeeapplicationApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employeeapplication/src/main/java/com/utcn/employeeapplication/department/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/employeeapplication/src/main/java/com/utcn/employeeapplication/department/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employeeapplication/src/main/java/com/utcn/employeeapplication/department/DepartmentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/employeeapplication/src/main/java/com/utcn/employeeapplication/department/DepartmentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employeeapplication/src/main/java/com/utcn/employeeapplication/department/DepartmentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/employeeapplication/src/main/java/com/utcn/employeeapplication/department/DepartmentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employeeapplication/src/main/java/com/utcn/employeeapplication/department/DepartmentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/employeeapplication/src/main/java/com/utcn/employeeapplication/department/DepartmentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employeeapplication/src/main/java/com/utcn/employeeapplication/employee/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/employeeapplication/src/main/java/com/utcn/employeeapplication/employee/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employeeapplication/src/main/java/com/utcn/employeeapplication/employee/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/employeeapplication/src/main/java/com/utcn/employeeapplication/employee/EmployeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employeeapplication/src/main/java/com/utcn/employeeapplication/employee/EmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/employeeapplication/src/main/java/com/utcn/employeeapplication/employee/EmployeeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employeeapplication/src/main/java/com/utcn/employeeapplication/employee/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/employeeapplication/src/main/java/com/utcn/employeeapplication/employee/EmployeeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employeeapplication/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/employeeapplication/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="2ZPKs2FzQrKrAEeDJi6pVSyJhzF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultPlantUmlFileTemplate" value="UML Class" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../SCDProiect/employeeaplication" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.EmployeeapplicationApplication">
+    <configuration name="EmployeeapplicationApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.utcn.employeeapplication.EmployeeapplicationApplication" />
+      <module name="employeeapplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.utcn.employeeapplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeapplicationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="employeeapplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.utcn.employeeapplication.EmployeeapplicationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EmployeeapplicationApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51818820-88e9-41d9-8008-78ff8618d6f4" name="Changes" comment="" />
+      <created>1702318477923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702318477923</updated>
+      <workItem from="1702318478943" duration="1219000" />
+      <workItem from="1702364064921" duration="1725000" />
+      <workItem from="1702367023399" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
